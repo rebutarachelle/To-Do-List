@@ -1,0 +1,43 @@
+div {
+    background-color: rgb(244, 244, 244);
+    height: 2000px;
+    border-radius: 20px;
+    border: 2px solid;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(4, 31, 128);
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:rgb(51, 83, 198);
+    margin-left: 10px;
+
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left:10px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+button {
+    font-size: 20px;
+    background-color: rgb(142, 192, 252);
+    border-radius: 100px;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 20px;
+}
+h3 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+i{
+    font-weight: bold;
+}
+
